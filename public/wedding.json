@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "name": "Floral Garland",
+      "picture": "https://i.pinimg.com/564x/a3/44/61/a344611380c9633b0392f91139ca828c.jpg",
+      "price": 150,
+      "short_description": "A beautiful floral garland to decorate your wedding venue."
+    },
+    {
+      "id": 2,
+      "name": "Table Centerpiece",
+      "picture": "https://i.pinimg.com/564x/61/53/df/6153df77e5390ac46a0de08592661c4b.jpg",
+      "price": 75,
+      "short_description": "A stunning table centerpiece to add elegance to your wedding reception."
+    },
+    {
+      "id": 3,
+      "name": "Fairy Lights",
+      "picture": "https://i.pinimg.com/564x/32/45/80/324580af867a7584b0e5bf6f198af434.jpg",
+      "price": 50,
+      "short_description": "Create a magical atmosphere with these twinkling fairy lights."
+    },
+    {
+      "id": 4,
+      "name": "Rustic Arch",
+      "picture": "https://i.pinimg.com/564x/33/20/b8/3320b8301eb1f06522ec2fbf5e754195.jpg",
+      "price": 300,
+      "short_description": "A charming rustic arch for your outdoor wedding ceremony."
+    },
+    {
+      "id": 5,
+      "name": "Chair Covers",
+      "picture": "https://i.pinimg.com/564x/ed/41/d3/ed41d3442cf1521bde7033f7c9948798.jpg",
+      "price": 40,
+      "short_description": "Elevate your reception decor with these elegant chair covers."
+    },
+    {
+      "id": 6,
+      "name": "Hanging Lanterns",
+      "picture": "https://i.pinimg.com/564x/73/be/2a/73be2a8f5f78adc205f2ab29ff3f7c9f.jpg",
+      "price": 120,
+      "short_description": "Add a warm glow to your wedding reception with these beautiful hanging lanterns."
+    }
+  ]
+  

@@ -1,0 +1,17 @@
+.nav a{
+    margin-right: 20px ;
+    color: maroon;
+    
+}
+.nav{
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+}
+.logoPic{
+    height: 85%;
+    width: 15%;
+    
+}
